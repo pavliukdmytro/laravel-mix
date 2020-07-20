@@ -1,0 +1,12 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.gb-inline {
+  display: flex;
+}
+.gb-inline > * {
+  list-style: none;
+  flex-direction: row;
+}

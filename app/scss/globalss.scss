@@ -1,0 +1,7 @@
+.gb-inline {
+  display: flex;
+  > * {
+    list-style: none;
+    flex-direction: row;
+  }
+}
